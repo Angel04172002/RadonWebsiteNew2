@@ -1,0 +1,34 @@
+.main-card {
+    width: 35rem;
+    margin: 0 auto;
+    height: 35rem;
+    width: 75rem;
+}
+
+
+.carousel {
+    border: none !important;
+}
+
+.carousel-img {
+    display: block;
+    margin: 0 auto;
+    height: 65%;
+    width: 60%;
+}
+
+.card-text {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+
+.btn {
+    margin-top: 2em;
+}
+
+
+.last-row {
+    width: 87vw !important;
+}

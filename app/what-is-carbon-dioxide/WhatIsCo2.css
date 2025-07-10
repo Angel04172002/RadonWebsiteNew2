@@ -1,0 +1,354 @@
+.container-fluid {
+    width: 100%;
+    position: relative;
+}
+
+
+/* .co2-container {
+    margin: 0 auto;
+    width: 100%;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+} */
+
+
+.co2-main-row,
+.co2-how-heard-row,
+.co2-row,
+.co2-important-row,
+.co2-where-does-come-from-row,
+.co2-what-are-effects-row,
+.what-are-effects-img-row,
+.house-img-row,
+.co2-at-home-row,
+.people-row,
+.plants-row {
+    width: 100vw;
+    background-size: cover;
+    background-position: left center;
+    position: relative;
+}
+
+
+.co2-main-row {
+
+    background-image: url('./images/MainBanner.png');
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+
+.co2-row {
+    background-image: url('./images/what_is_co2-b21\ .png');
+    padding: 0;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+.co2-important-row {
+    background-color: #b4bdc8;
+    padding: 0;
+    height: 100vh;
+}
+
+
+
+.co2-how-heard-row {
+    background-color: #b4bdc8;
+    padding: 0;
+    height: 175vh;
+}
+
+
+.co2-where-does-come-from-row {
+    background-color: #488eab;
+    padding: 0;
+    color: white;
+    height: 160vh;
+
+}
+
+.co2-where-does-come-from-row h2 {
+    margin: 0 auto;
+}
+
+
+.house-img-row {
+    background-color: #488eab;
+
+}
+
+.co2-what-are-effects-row {
+    height: 100vh;
+    background-color: #488eab;
+    padding: 0;
+    color: white;
+}
+
+
+.co2-what-are-effects-row h2 {
+    font-size: 2.5rem;
+}
+
+.what-are-effects-img-row {
+    background-color: #488eab;
+    padding: 0;
+    height: 90vh;
+}
+
+
+
+.co2-at-home-row {
+    padding-top: 5em;
+    background-color: #488eab;
+    height: 100vh;
+    color: white;
+}
+
+
+
+.people-row {
+
+    background-color: #d7f2ff;
+    height: 440vh;
+    padding: 0;
+}
+
+.plants-row {
+
+    background-color: #e2f1f8;
+    height: auto;
+    padding: 0;
+    padding-top: 7em !important;
+
+}
+
+.plants-row h2 {
+    font-size: 3.5rem;
+    opacity: 1;
+    line-height: 1em;
+}
+
+.plants-row h2,
+.plants-row p {
+    color: #227F96;
+}
+
+.plants-row p {
+    font-size: 1.3em;
+    margin-right: 1em !important;
+}
+
+
+.co2-important-par {
+    color: #42515a;
+    text-align: start;
+    font-size: 1rem;
+    margin: 0 auto;
+    margin-top: 1em;
+}
+
+
+.co2-par {
+    color: #3d6d84;
+    opacity: 0.838732;
+    font-weight: 500;
+    text-align: start;
+    font-size: 1.5rem;
+    padding-top: 1.3em;
+}
+
+.co2-heard-par {
+    color: #42515a;
+    text-align: start;
+    margin: 0 auto;
+    margin-top: 1em;
+    margin-bottom: 4em;
+}
+
+
+.co2-image-container {
+    margin-top: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.co2formula-img {
+    display: block;
+    margin-top: 10;
+}
+
+.co2-content-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.single-img.formula:after,
+.second-img.formula:after,
+.third-img.formula:after {
+    background: #42515a;
+    bottom: 58px;
+    content: "";
+    height: 1px;
+    left: 50%;
+    margin-left: -125px;
+    position: absolute;
+    width: 250px;
+}
+
+.second-img.formula:after {
+    width: 520px;
+    margin-left: 10em;
+}
+
+.third-img.formula:after {
+    display: block;
+    background-color: white;
+    width: 700px;
+    margin-right: 400px;
+    margin-bottom: 580px;
+}
+
+.effects-container {
+    height: 5em
+}
+
+
+.icon-special {
+    margin-top: 0;
+}
+
+.drowsy-par {
+    margin-top: 1.45em;
+}
+
+.people-row p,
+.people-row h2 {
+    color: #42515a
+}
+
+.ventilation-img {
+    margin-top: 3.5em !important;
+}
+
+.what-do-levels-mean-div h2 {
+    font-size: 3em;
+    opacity: 0.871061;
+    margin-top: 41.8109px;
+    margin-bottom: 2em;
+}
+
+.levels-of-co2-div {
+    color: var(--dark-blue);
+}
+
+.levels-of-co2-div .first-heading {
+    margin-top: 0.9em;
+}
+
+.levels-of-co2-div .second-div-level {
+    margin-top: 2em;
+} 
+
+.levels-of-co2-div .third-div-level {
+    margin-top: 2em;
+} 
+
+
+.dark-container {
+    background-color: #3f6d83;
+    box-shadow: 0 10px 18px -10px #3f6d83;
+    height: 50em;
+    width: 60   em;
+}
+
+.dark-container h2 {
+    color: white !important;
+}
+
+
+.waveplusdiv {
+    padding-top: 12em;
+} 
+
+.wave-link {
+    color: #fdbf2d;
+    font-size: 1.3em;
+}
+
+.wave-col p {
+    color: white;
+}
+
+.wave-p {
+    font-size: 1.5em !important;
+}
+
+
+@media (max-width: 320px) {
+    .co2-gas-par {
+        font-size: 10px !important;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+
+    .dark-container {
+        height: auto;
+    }
+
+
+    .second-img.formula:after {
+        width: 420px;
+        margin-left: -210px;
+    }
+
+    .co2-what-are-effects-row {
+        height: 110vh !important;
+    }
+
+    .what-are-effects-img-row {
+        height: 100vh !important;
+    }
+
+    .what-are-effects-img-row div {
+        height: auto !important;
+        margin-bottom: 1rem;
+    }
+
+    .what-are-effects-img-row img {
+        margin-bottom: 1rem;
+        /* Add margin-bottom to images */
+    }
+
+    .what-are-effects-img-row p {
+        margin-top: 0.5rem;
+        /* Add margin-top to paragraphs */
+    }
+
+
+
+    .co2-at-home-row {
+        margin-top: 2rem;
+        /* Add margin to separate sections */
+    }
+
+    .drowsy-par {
+        margin-top: 1.45em !important;
+    }
+}
+
+.row {
+    margin-bottom: 0;
+}

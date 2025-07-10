@@ -1,0 +1,834 @@
+.accordion-paragraph-1,
+.accordion-paragraph-2 {
+    text-align: start;
+    margin-top: 0.7em;
+    color: #42515a;
+    font-size: 1.5rem;
+    line-height: 1.4167em;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.accordion-paragraph-1 {
+    margin-bottom: 30px;
+}
+
+.accordion-paragraph-2 {
+    margin-bottom: 15px;
+}
+
+
+.accordion-main-title {
+    margin-bottom: 1em;
+    color: #42515a;
+    font-weight: 500;
+    font-size: 2em;
+}
+
+.accordion-subcaption {
+    font-size: 1.5rem;
+    line-height: 1.4167em;
+    margin: 0;
+    padding-left: 20px;
+    color: #42515a;
+}
+
+
+.inner-container2 {
+    width: 87vw !important;
+}
+
+.radon-row {
+    width: 87vw !important;
+}
+
+
+
+.main-title-page {
+    font-size: 4.0675rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 1.0769;
+}
+
+.main-paragraph-page {
+    font-weight: 500;
+    line-height: 1.417em;
+}
+
+.main-paragraph-page2 {
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.accordion-subcaption-paragraph {
+    margin-left: 5em;
+    font-size: 1.2em;
+    text-align: start;
+    margin-top: 0.4em;
+    width: 90%;
+}
+
+
+
+.right-aligned-container,
+.right-aligned-container-2 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 5.3em;
+    margin-bottom: 1em;
+    /* margin-right: 12.7em; */
+}
+
+.left-aligned-container {
+    display: flex;
+    justify-content: left;
+}
+
+
+
+/* .right-aligned-container-2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 7.5em;
+}  */
+
+
+
+
+
+
+.row {
+    margin-bottom: 3em;
+}
+
+
+
+.lungs-container {
+    /* margin-left: 3em; */
+}
+
+
+
+
+.c-1 {
+    background-color: #488EAB;
+    margin-left: 0;
+}
+
+.c-2 {
+    background-color: #42515A;
+    height: 43.15em;
+}
+
+.c-1,
+.c-2 {
+    width: 34em;
+}
+
+
+
+.d-1 {
+    margin-left: 0;
+}
+
+.d-1,
+.d-2 {
+    width: 32em;
+    margin-bottom: 4em !important;
+}
+
+
+.e-1,
+.e-2 {
+    width: 34em !important;
+    ;
+    position: relative;
+    margin-bottom: 4em !important;
+}
+
+
+.c-1 h3,
+.c-2 h3 {
+    margin: 0 auto;
+}
+
+
+.c-1 img {
+    width: 295px;
+    height: 263px;
+}
+
+.c-2 img {
+    width: 358px;
+    height: 243px;
+}
+
+.c-1 img,
+.c-2 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.main-radio-dna-img-container {}
+
+.radio-dna-img-container {
+    padding: 75px 60px;
+    text-align: center;
+    margin-bottom: 4em !important;
+}
+
+.radio-dna-img-container img {
+    margin-bottom: 38px;
+}
+
+.radio-dna-img-container h3 {
+    color: white;
+    font-size: 1.875rem;
+    line-height: 1.34em;
+    margin: auto auto 38px;
+    font-weight: 500;
+}
+
+.radio-dna-img-container h4 {
+    color: white;
+    font-size: 1.5rem;
+    margin: 0 0 14px;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+
+.radio-dna-img-container p {
+    color: white;
+    font-size: 1.125rem;
+    line-height: 1.55em;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+.lungs-container p {
+    margin: 0;
+    text-align: start;
+    margin-left: 0.2em;
+    margin-top: 1em;
+}
+
+.lungs-icon {
+    display: block;
+    /* text-align: start; */
+}
+
+.x-ray-image {
+    display: block;
+    /* margin-left: 6em; */
+    border: 0;
+    height: auto;
+    max-width: 100%;
+}
+
+
+
+.radon-img-act-1 {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin-right: 10em !important;
+    /* vertical-align: middle; */
+
+}
+
+.radon-img-act-2 {
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.radiodna-p {
+    margin-bottom: 2em;
+}
+
+
+
+
+.contaminant_container {
+    margin: 0 auto;
+    max-width: 49.355%;
+    padding: 45px;
+    text-align: center;
+}
+
+.contaminant_container h3 {
+    color: #FEC200;
+    font-weight: 600;
+    margin: 0 0 23px;
+    font-size: 1.75rem;
+    text-align: center;
+}
+
+.radiodna-text-container,
+.radiodna-text-container2 {
+    max-width: 100%;
+}
+
+.radiodna-text-container p {
+    color: #42515a;
+    font-size: 1.5rem;
+    line-height: 1.4167em;
+    text-align: start;
+}
+
+.contaminant_container {
+    max-width: 100%;
+    width: 100%;
+}
+
+
+
+.radon-home-p {
+
+    font-size: 1.5rem;
+    color: #42515a;
+    line-height: 1.4167em;
+    margin-bottom: 0;
+}
+
+
+.tree-img {
+    height: 20em;
+}
+
+.home-dna-img-container {
+    padding: 50px 40px;
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .16);
+    height: auto;
+    text-align: center;
+    transition: all .5s ease;
+}
+
+
+.radon-home-p {
+    margin-left: 0.7em;
+    margin-bottom: 1.4em;
+}
+
+.home-dna-img-container h4 {
+    font-size: 1.5rem;
+    color: #42515a;
+    margin: 0 0 14px;
+    transition: color .5s ease;
+    font-weight: 500;
+    line-height: 1.4em;
+    margin-bottom: 2em;
+}
+
+
+.second-radio-heading {
+    height: 67.2px;
+}
+
+.home-dna-img-container img {
+    height: 100%;
+    object-fit: contain;
+    width: 120px;
+    height: 120px;
+    max-width: 100%;
+    vertical-align: middle;
+    margin-bottom: 2em;
+}
+
+.home-dna-img-container p {
+    font-size: 1.15rem;
+    color: #42515a;
+    line-height: 1.55em;
+    width: 70% !important;
+    transition: color .5s ease;
+    text-align: start !important;
+    margin: 0 auto;
+}
+
+
+.radon-map-p {
+    font-size: 1.5rem;
+    line-height: 1.4167em;
+    color: #42515a;
+}
+
+.radonmap-img {
+    width: 494.4px;
+    height: 322.99px;
+    display: block;
+    margin-bottom: 30px;
+    width: 100%;
+    height: auto;
+}
+
+.radon-map-btn {
+    background: #ffc000;
+    border-color: transparent;
+    border-radius: 30px;
+    color: #42515a;
+    display: inline-block;
+    font-size: 1.1rem;
+    line-height: 1em;
+    max-width: auto;
+    padding: 17px 38px 16px;
+    white-space: nowrap;
+    width: fit-content;
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+
+.sensitive-div h4 {
+    font-size: 1.5rem;
+    color: #42515a;
+    font-weight: 600;
+}
+
+.sensitive-img {
+    display: block;
+    margin: 0 auto 30px;
+    border: 0;
+    height: auto;
+    max-width: 100%;
+}
+
+.sensitive-img-2 {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 0;
+    height: auto;
+    max-width: 100%;
+}
+
+
+.sensitive-dna-img-container {
+    padding: 38px 0;
+    position: relative;
+    width: 100%;
+}
+
+.sensitive-dna-img-container p {
+    line-height: 1.55em;
+    margin: 0;
+    color: #42515a;
+}
+
+
+.sensitive-img-div {
+    width: 120px;
+    height: 120px;
+}
+
+.first-radio-heading {
+    font-size: 1.5rem;
+    line-height: 1.4167em;
+    margin-left: 1.7em !important;
+    color: #42515a;
+    font-weight: 500;
+    width: 75%;
+}
+
+
+.sens-p {
+    font-size: 1rem;
+    line-height: 1.55em;
+    color: rgb(66, 81, 90);
+}
+
+.why-change-p {
+    font-size: 1.25rem;
+    color: #42515A;
+    line-height: 1.4167em;
+    margin-bottom: 30px;
+    width: 90%;
+}
+
+
+
+.home-dna-place-container {
+    padding: 50px 40px;
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .16);
+    height: auto;
+    text-align: center;
+    transition: all .5s ease;
+}
+
+.d-1-1,
+.d-2-1 {
+    width: 15em;
+    height: auto;
+    margin-bottom: 4em !important;
+}
+
+.radon-level-desc-p {
+    font-size: 1.5em;
+    margin-top: 0.5em;
+    font-weight: 500;
+    color: #42515a;
+    line-height: 1.4167em;
+}
+
+.d-1-1 {
+    margin-right: 5em;
+}
+
+
+.radon-sampling-row {
+    background-color: #42515A;
+    background-size: cover;
+    background-position: center;
+    width: 85% !important;
+}
+
+.radon-sampling-row h4 {
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 1.7rem;
+    font-weight: 500;
+    line-height: 1.4em;
+}
+
+.radon-sampling-row p {
+    color: #fff;
+    line-height: 1.4167em;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+.content-sampling-div {
+    margin-left: 3em;
+
+}
+
+
+.radon-levels-last-div h2 {
+    font-weight: 600;
+    color: #42515a;
+    font-size: 1.875rem;
+    letter-spacing: 0;
+    line-height: 1.333em;
+    margin-bottom: 0;
+    text-align: center !important;
+    margin-right: 10em !important;
+    /* padding-right: 10em !important; */
+}
+
+.radon-lev-last-heading {
+    font-weight: 600;
+    margin: 0;
+    padding-right: 25px;
+    color: #42515a;
+    font-size: 0.5em !important;
+    line-height: 1.4167em;
+}
+
+.radon-lev-last-p {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding-left: 25px;
+    color: #42515a;
+    line-height: 1.4167em;
+    width: 100%;
+    text-align: center;
+}
+
+
+.radon-lev-last-p-2 {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding-left: 25px;
+    color: #42515a;
+    line-height: 1.4167em;
+    width: 100%;
+}
+
+
+.inner-level-last-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    padding-left: 10em;
+}
+
+.inner-level-last-div h2 {
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 4em;
+    font-size: 24px;
+}
+
+@media(min-width: 575px) and (max-width: 992px) {
+    .radon-lev-last-p {
+       padding-right: 0em !important;
+    }   
+}
+
+
+@media(min-width: 770px) and (max-width: 1008px) {
+
+    .d-1,
+    .d-2 {
+        width: 30% !important;
+        /* margin-left: 2.5%;
+        margin-right: 2.5%; */
+    }
+}
+
+@media(min-width: 768px) and (max-width: 992px) {
+
+    .radon-levels-last-div h2 { 
+        width: 19em;
+    }
+
+
+    .main-title-page {
+        width: 100%;
+    }
+
+
+}
+
+@media(max-width: 992px) {
+
+    .radon-level-desc-p {
+        font-size: 1.25rem;
+    }
+
+    .first-radio-heading {
+        font-size: 1.25rem;
+    }
+
+    .sensitive-dna-img-container {
+        margin: 0;
+        max-width: 100%;
+    }
+
+    .sensitive-dna-img-container p {
+        font-size: 1rem;
+    }
+
+
+}
+
+
+
+
+
+@media (max-width: 768px) {
+
+    .radon-levels-last-div  h2 {
+        margin-right: 0em !important;
+        width: 13em;
+        text-align: center !important;   
+    }
+
+    .inner-level-last-div h2 {
+        width: 7em;
+    }
+
+    .main-last-row span {
+        width: 10em;
+        /* margin-top: 5em; */
+    }
+
+    .inner-level-last-div {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .radon-lev-last-p {
+        padding-left: 0 !important;
+        padding-right: 5em;
+        padding-top: 0.4em !important;
+    }
+
+
+    .radon-lev-last-p-2 {
+        padding-left: 0 !important;
+        /* padding-right: 9em !important; */
+        text-align: center !important;
+     
+    }
+
+    .contaminant_container {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .home-dna-place-container {
+        padding: 26px 20px;
+        height: auto;
+        width: 100%;
+    }
+
+    .radon-sampling-row h4 {
+        width: 85%;
+    }
+
+    .radon-sampling-row h4,
+    .radon-sampling-row p {
+        margin-right: 4em;
+    }
+
+}
+
+@media(min-width: 765px) and (max-width: 992px) {
+    .radon-sampling-row {
+        width: 75% !important;
+        padding-right: 5em !important;
+    }
+}
+
+
+@media(min-width: 580px) and (max-width: 730px) {
+    .radon-sampling-row {
+        width: 75% !important;
+        /* margin-right: 10em; */
+        /* margin: 0 auto !important; */
+    }
+}
+
+@media (max-width: 768px) {
+
+
+
+
+    .d-1,
+    .d-2 {
+        width: 10em !important;
+    }
+
+
+    .radio-dna-img-container {
+        height: auto;
+        padding: 55px 40px;
+        width: 100% !important;
+        overflow-x: hidden !important;
+    }
+
+
+    .home-dna-img-container {
+        padding: 26px 20px;
+        height: auto;
+        width: 100%;
+    }
+
+    .c-2 p {
+        margin: 0 auto;
+        width: 88%;
+    }
+
+    .right-aligned-container,
+    .right-aligned-container-2 {
+        justify-content: start !important;
+        margin-left: 0;
+    }
+
+    .accordion-subcaption-paragraph {
+        text-align: start !important;
+        width: 100%;
+        margin: 0
+    }
+
+
+    .paragraph-container {
+        text-align: start;
+    }
+
+    .main-title-page {
+        font-size: 3.0675rem !important;
+    }
+
+    .main-paragraph-page {
+        font-size: 1.6em !important;
+    }
+}
+
+@media(min-width: 718px) and (max-width: 770px) {
+
+    .d-1,
+    .d-2 {
+        width: 30% !important;
+        /* margin-left: 2.5%;
+        margin-right: 2.5%; */
+    }
+
+    .row:last-of-type {
+        width: 80vw;
+    }
+
+
+}
+
+
+@media(min-width: 765px) and (max-width: 992px) {
+    .main-last-row  {
+        padding-right: 10em;
+    }
+}
+
+@media(max-width: 1007px) {
+
+    .radon-levels-last-div h2 {
+        margin-right: 0em !important;
+    }
+    .home-dna-place-container {
+        padding: 26px 20px;
+        height: auto;
+        width: 100%;
+    }
+
+
+    .radio-dna-img-container {
+        height: auto;
+        padding: 15px;
+        /* Adjust padding for smaller screens */
+        width: 100%;
+        overflow-x: hidden !important;
+    }
+
+    .home-dna-img-container {
+        padding: 26px 20px;
+        height: auto;
+        width: 100%;
+    }
+
+    .accordion-subcaption-paragraph {
+        margin-left: 0;
+        padding-left: 0;
+    }
+}
+
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+body {
+    overflow-x: hidden;
+    /* Prevent horizontal scrolling */
+}

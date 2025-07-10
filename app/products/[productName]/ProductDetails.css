@@ -1,0 +1,1257 @@
+.product-desc-container {
+    margin-top: 7em;
+    font: 16px "Open Sans", sans-serif;
+    color: #21282D;
+}
+
+.product-desc-container {
+    padding-left: 2em;
+}
+
+.product-desc-container h1 {
+    font-size: 2.6em;
+    line-height: 1;
+    font-weight: 700;
+    margin-right: 2em
+}
+
+.description {
+    text-align: start;
+    margin-top: 4em;
+    margin-left: 2.7em;
+    font-size: 20px;
+}
+
+.carousel-container {
+    padding-left: 5em;
+
+}
+
+.price {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #21282d;
+    text-align: start;
+    margin-left: 2.15em;
+    margin-top: 3em;
+
+}
+
+
+.tab-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 34px;
+    margin-top: 7em;
+}
+
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+body {
+    overflow-x: hidden;
+    /* Prevent horizontal scrolling */
+}
+
+
+.btn {
+    display: block;
+    width: 80% !important;
+    background-color: #ffc000;
+    margin: 0 auto;
+    color: #21282D;
+    font: 19px 'Open Sans', sans-serif;
+    border-radius: 1em;
+    height: 1.9em;
+    margin-top: 4em;
+    margin-bottom: 1em;
+}
+
+ul li {
+    text-align: start;
+}
+
+
+.none-style {
+    list-style-type: none;
+}
+
+
+.main-view-wave-container {
+    margin-top: 5em;
+}
+
+.vp-p {
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    color: #21282D;
+    font: 16px "Open Sans", sans-serif;
+
+}
+
+
+.vp-h2 {
+    color: #21282D;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.first-containerm p,
+.second-containerm p {
+    font: 17px "Open Sans", sans-serif;
+    color: #21282D;
+}
+
+
+
+.first-containerm,
+.second-containerm {
+    text-align: center;
+    margin-bottom: 4em !important;
+
+}
+
+
+
+
+.r-2 {
+    height: auto
+}
+
+.r-1,
+.r-2 {
+    width: 40em;
+    text-align: start;
+}
+
+
+.q-1,
+.q-2 {
+    margin-top: 30em;
+}
+
+
+
+
+.img-m-cont {
+    height: 5em;
+}
+
+
+.content-container-m {
+    height: 20em;
+}
+
+
+
+/* View plus */
+
+.view-plus-caption {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #1F2937;
+    font: 18px "Open Sans", sans-serif;
+    text-align: start;
+    margin-top: 2em;
+    ;
+}
+
+.view-plus-heading {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: #1F2937;
+    font-weight: bold !important;
+    margin-bottom: 1rem;
+    font: 28px "Open Sans", sans-serif;
+    margin-bottom: 1em;
+    text-align: start;
+}
+
+.view-plus-desc {
+    color: rgb(75, 85, 99);
+    font: 20px "Open Sans", sans-serif;
+    text-align: start;
+}
+
+.view-plus-main-img {
+    display: block;
+}
+
+.view-plus-content {}
+
+.view-plus-ex-caption {
+    color: rgb(31, 41, 55);
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0 auto;
+}
+
+.view-plus-ex-heading {
+    color: rgb(31, 41, 55);
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+
+.text-s {
+    color: rgb(31, 41, 55);
+
+}
+
+
+
+
+
+.card-title {
+    font: 24px 'Open Sans', sans-serif;
+    color: #21282D;
+    text-align: start;
+    margin-top: 0.6em;
+    font-weight: bold !important;
+}
+
+
+.card-text {
+    width: 100%;
+    color: #21282D;
+    font: 17px 'Open Sans', sans-serif;
+    padding: 5px 0px 20px;
+    text-align: start !important;
+    margin-left: 0;
+    margin-top: 1em;
+}
+
+.card-body {
+    height: 25em;
+    padding: 3em;
+}
+
+.card-body-container {
+    height: 5.5em;
+}
+
+.main-card-container {
+    margin-right: 2em;
+    margin-bottom: 5em;
+}
+
+
+.card-view-pl {
+    margin: 0 auto;
+    height: auto;
+    width: 446.364px;
+    background-color: rgb(226, 226, 226);
+}
+
+
+
+
+.subcaption {
+    width: 80%;
+    text-align: start;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    color: #21282D;
+    font-size: 18px !important;
+}
+
+
+.view-plus-experience-div {
+    margin-top: 5em;
+}
+
+
+.card-img-container {
+    height: 20em;
+}
+
+
+.card-up {
+    margin-bottom: 15em;
+}
+
+.d-1,
+.d-2 {
+    width: 32em;
+    margin-bottom: 4em !important;
+}
+
+
+.home-dna-place-container {
+    padding: 50px 40px;
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .16);
+    height: auto;
+    text-align: center;
+    transition: all .5s ease;
+}
+
+
+
+.faq-answer {
+    font: 18px "Open Sans", sans-serif;
+    text-align: start;
+}
+
+.wave-enhance-answer {
+    font: 16px "Open Sans", sans-serif;
+    text-align: start;
+}
+
+
+.multi-room-h3 {
+    color: rgb(31 41 55);
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold !important;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+
+.multi-room-p {
+    color: #1F2937;
+    opacity: 1;
+    font-weight: 600;
+    text-transform: uppercase;
+    font: 16px "Open Sans", sans-serif;
+}
+
+
+.place-where-div {
+    padding-top: 5em;
+    background-color: rgb(247 246 243);
+}
+
+
+.main-monitor-h1 {
+    font-size: 34px;
+    margin-bottom: 58px;
+    line-height: 1.75rem;
+    text-align: center;
+    font-weight: bold !important;
+}
+
+.monitor-title {
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-size: 22px;
+}
+
+.monitor-desc {
+    font-size: 19px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.monitor-title,
+.monitor-desc {
+    color: #21282D;
+    font-family: "Open Sans", sans-serif;
+    text-align: start;
+}
+
+.monitor-div div {
+    width: 25em;
+}
+
+
+.vp-explained-div {
+    margin-top: 10em;
+}
+
+.nerd-p {
+    color: rgb(31, 41, 55);
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-left: 10em;
+    margin-top: 2em;
+    font-size: 1em;
+    line-height: 1.25rem;
+}
+
+.video-renew-container {
+    padding-left: 7em;
+}
+
+.renew-p {
+    color: rgb(31, 41, 55);
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.1em;
+    line-height: 1.25rem;
+}
+
+.renew-desc {
+    color: #4B5563;
+    font: 17px 'Open Sans', sans-serif;
+    opacity: 1;
+}
+
+.nerd-h3 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-left: 6.7em;
+    font-weight: 700;
+    color: rgb(31, 41, 55);
+    margin-bottom: 1rem;
+}
+
+.nerd-p-2 {
+    margin-left: 9.6em;
+    font: 17px "Open Sans", sans-serif;
+    color: rgb(31, 41, 55);
+    margin-bottom: 1rem;
+    color: #1F2937;
+}
+
+
+
+.home-dna-place-container-2-1,
+.home-dna-place-container-2-2 {
+    height: 15em;
+}
+
+.home-dna-place-container-2-1 h4,
+.home-dna-place-container-2-2 h4 {
+    color: #1F2937;
+    font-weight: 600;
+    font-size: 1.4em;
+    line-height: 1.75rem;
+}
+
+.home-dna-place-container-2-1 p,
+.home-dna-place-container-2-2 p {
+    color: #4B5563;
+    font: 16px "Open Sans", sans-serif;
+    margin-bottom: 1rem;
+}
+
+.home-dna-place-container-2-1 {
+    margin-right: 5em;
+}
+
+
+.faq-div {
+    margin-top: 0em !important;
+}
+
+
+
+
+
+.smart-system-p {
+    color: #1F2937;
+    font: 17px "Open Sans", sans-serif;
+    text-transform: uppercase;
+}
+
+.smart-system-h3 {
+    color: #1F2937;
+    font: 24px "Open Sans", sans-serif;
+    font-weight: 700;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+}
+
+
+.smart-system-desc {
+    color: #4B5563;
+    font: 17px "Open Sans", sans-serif;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+
+
+.video-renew-container,
+.content-renew-container {
+    margin-top: 5em;
+}
+
+.content-renew-p {
+    margin: 0 auto;
+}
+
+
+.renew-experience-container {
+    background-color: rgb(234 241 244);
+    padding-top: 3rem;
+    height: auto !important;
+}
+
+.experience-div-container {
+    padding: 50px 40px;
+    background: #fff;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .16);
+    text-align: center;
+    transition: all .5s ease;
+    height: 15em;
+    width: 19em;
+    margin-right: 5em;
+    background-color: rgb(234 241 244);
+}
+
+
+
+
+
+.renewex-p {
+    text-transform: uppercase;
+    color: #111827;
+    font: 16px "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+.renewex-h3 {
+    color: #111827;
+    font: 24px "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+
+.airthings-h3 {
+    color: black;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+
+}
+
+.airthings-p {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 1rem;
+}
+
+
+.airh-div {
+    padding-top: 5em;
+}
+
+
+.set-forget-p {
+    font: 14px "Open Sans", sans-serif;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.set-forget-h3 {
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.set-forget-p,
+.set-forget-h3 {
+    color: #1F2937;
+}
+
+
+.set-forget-desc {
+    color: #4B5563;
+    margin-bottom: 1rem;
+}
+
+
+
+.auto-mode-p {
+    color: #1F2937;
+    font: 15px "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 1.25rem;
+}
+
+.auto-mode-h3 {
+    color: #1F2937;
+    font: 24px "Open Sans", sans-serif;
+    line-height: 2rem;
+    font-weight: 700;
+    margin-bottom: 1.3em;
+}
+
+
+.auto-mode-desc {
+    color: #4B5563;
+    margin-bottom: 1rem;
+    font: 17px "Open Sans", sans-serif;
+}
+
+.auto-mode-video {
+    width: 388px;
+    height: 292.08px;
+}
+
+
+.auto-mode-div {
+    margin-top: 5em;
+}
+
+
+.effective-filter-div {
+    margin-top: 5em;
+}
+
+
+
+.experience-p-title {
+    color: #111827;
+    font: 17px "Open Sans", sans-serif;
+    font-weight: 700;
+
+}
+
+.experience-p-desc {
+    color: #4B5563;
+    font: 17px "Open Sans", sans-serif;
+
+}
+
+.ex-d-c {
+    height: auto !important;
+    width: 30em !important;
+}
+
+.filter-video,
+.filter-video-2 {
+    display: block;
+    width: 100% !important;
+}
+
+
+
+
+
+.renew-tech {
+    display: block;
+    color: #21282D;
+    font: 16px 'Open Sans', sans-serif;
+    text-align: start;
+}
+
+
+.experience-main-container {
+    justify-content: center;
+}
+
+.filter-new-container {
+    margin-left: 7em;
+}
+
+
+.improve-air-p {
+    font: 17px "Open Sans", sans-serif;
+    color: #21282D;
+
+}
+
+
+.environment-factors-h2 {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 2rem;
+
+}
+
+.where-to-place-wave-enhance-div {
+    margin-top: 7em;
+    background-color: rgb(247 246 243);
+    padding-bottom: 1em;
+}
+
+
+.where-place-p {
+    font: 17px "Open Sans", sans-serif;
+    color: #21282D;
+}
+
+
+.wave-mini-main-p {
+
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 1.25;
+    color: #21282D;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.wave-mini-desc {
+    font-size: 19px;
+    color: #21282D;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    line-height: 1.5rem;
+    max-width: 880px;
+
+}
+
+.wave-mini-main-div {
+    margin-top: 5em;
+}
+
+.wave-mini-video {
+    width: 970px;
+    height: 600px;
+    display: block;
+    object-fit: cover;
+    margin: 0 auto !important;
+    margin-top: 2em !important;
+    margin-bottom: 5em !important;
+}
+
+.wave-mini-subcaption {
+    color: #21282D;
+    font: 26px "Open Sans", sans-serif;
+    font-weight: 600;
+    text-align: start;
+}
+
+.wave-mini-subcaption-desc {
+    color: #21282D;
+    max-width: 482px;
+    font: 19px "Open Sans", sans-serif;
+    margin-bottom: 2.3em;
+    text-align: start;
+}
+
+.living-bathroom-h2 {
+    color: #21282D;
+    font: 36px "Open Sans", sans-serif;
+    font-weight: 700;
+    line-height: 2.5rem;
+    text-align: center;
+}
+
+.living-bathroom-main-subcaption {
+    color: #21282D;
+    font: 24px "Open Sans", sans-serif;
+    font-weight: 600;
+    line-height: 2rem;
+    text-align: start;
+}
+
+
+.living-bathroom-main-subcaption-desc {
+    color: #21282D;
+    font: 18px "Open Sans", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: start;
+    margin-bottom: 2em;
+}
+
+.lvb-div-1 {
+    margin-top: 5em !important;
+}
+
+.card-view-pl-2 {
+    width: 35em;
+}
+
+
+.first-containerm,
+.second-containerm {
+    text-align: center;
+    margin-bottom: 4em !important;
+
+}
+
+
+.r-1,
+.r-2 {
+    margin-top: 5em;
+}
+
+.r-2 {
+    height: auto
+}
+
+.r-1,
+.r-2 {
+    width: 40em;
+    text-align: start;
+}
+
+
+
+.content-container-m {
+    height: auto;
+    padding-left: 1em;
+    padding: 2rem;
+}
+
+
+
+.img-m-cont {
+    height: auto;
+}
+
+.content-m-cont {
+    height: auto
+}
+
+.img-m-cont img {
+    display: block;
+    width: 45em;
+    margin-top: 2em;
+    margin-left: 0;
+    margin-right: 0;    
+}
+
+
+.vp-span {
+    color: rgb(107, 114, 128);
+    text-transform: uppercase;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+.vp-h2 {
+    font-weight: 800;
+    color: black;
+    font-size: 1.6em;
+    line-height: 2rem;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.vp-p {
+    color: rgba(75, 85, 99, 1);
+    margin-top: 0.5rem;
+    text-transform: none;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+.img-m-cont-2 {
+    padding-top: 0.05em;
+}
+
+.s-1,
+.s-2,
+.s-3 {
+    background-color: rgb(243 244 246);
+}
+
+.s-3 {
+    width: auto !important;
+}
+
+
+.pur-img {
+    width: 40em;
+    height: 30em;
+    margin-top: 3em;
+}
+
+@media(max-width: 768px) {
+
+    
+    .s-2 {
+        margin-top: 0em !important;
+    }
+
+    .r-1, .r-2 {
+        width: 30em;
+    }
+
+    .r-2 {
+        margin-top: 0.8em;
+    }
+
+    .r-1 {
+        margin-bottom: 2em;
+        margin-top: 5em;
+    }
+
+    .r-3 {
+        max-width: 30em;
+    }
+
+
+    .carousel {
+        width: 100% !important;
+        padding-left: 0;
+        margin: 0 auto;
+    }
+
+    .carousel-img {
+        width: 100% !important;
+        margin: 0 auto;
+    }
+
+    .carousel-container {
+        padding-left: 0;
+    }
+
+    .product-desc-container h1 {
+        font-size: 2rem;
+        margin-right: 2.05em;
+    }
+
+   
+    
+
+    .r-1,
+    .r-2 {
+        width: 30em;
+    }
+
+    .r-2 {
+        margin-top: 15em;
+    }
+
+    .r-1 {
+        margin-bottom: 2em;
+    }
+
+    .q-1 {
+        margin-top: 20em !important;
+    }
+
+    .q-2 {
+        margin-top: 5em !important;
+    }
+
+    .view-plus-caption {
+        margin-top: 3em;
+    }
+
+    .view-plus-content {
+        order: 1;
+    }
+
+    .view-plus-img-div {
+        order: 2;
+    }
+
+    .view-plus-content-2 {
+        order: 3;
+        margin-top: 0 !important;
+
+    }
+
+    .view-plus-img-div-2 {
+        order: 4;
+        margin-top: 0 !important;
+    }
+
+    .view-plus-main-img {
+        margin-top: 2em;
+    }
+
+
+    .tab-header {
+        font-size: 28px;
+    }
+
+    .renew-accordion {
+        padding-right: 1em;
+    }
+
+    .nerd-p,
+    .nerd-p-2,
+    .nerd-h3 {
+        margin-left: 0 !important;
+    }
+
+    .home-dna-place-container-2-1 {
+        margin-right: 0 !important;
+    }
+
+    .content-renew-container {
+        order: 0;
+    }
+
+    .video-renew-container {
+        padding-left: 0;
+        order: 1;
+    }
+
+    .renew-p {
+        margin-right: 0;
+        text-align: center !important;
+        margin: 0 auto !important;
+        margin-bottom: 2em;
+    }
+
+    .smart-system-desc {
+        width: 75% !important;
+        margin-top: 2em !important;
+    }
+
+    .experience-div-container {
+        margin-right: 0;
+    }
+
+    .smart-div-container {
+        padding-right: 2em;
+    }
+
+    ;
+
+
+    .airh-div {
+        padding-right: 5em !important;
+    }
+
+    .airthings-h3 {
+        margin-right: 2em;
+    }
+
+    .airh-div img {
+        padding-right: 1em !important;
+    }
+
+    .auto-mode-main-div,
+    .effective-filter-div,
+    .experience-div-container {
+        padding-right: 2.5em !important;
+    }
+
+    .maintenance-div video {
+        padding-right: 2em;
+    }
+
+    .filter-new-container {
+        width: 27em !important;
+    }
+
+    .filter-video {
+        padding-left: 2em;
+    }
+
+    .filter-new-container {
+        margin-left: 0;
+    }
+
+
+    .airthings-h3 {
+        margin: 0 auto;
+        margin-bottom: 1em;
+    }
+
+    .improve-air-p {
+        width: 85% !important;
+    }
+
+    .where-place-p {
+        width: 75% !important;
+    }
+
+
+    .monitor-title {
+        text-align: center;
+    }
+
+    .monitor-desc {
+        margin: 0 auto;
+        margin-bottom: 2.5em;
+    }
+
+    .nerd-p-2 {
+        width: 80% !important;
+    }
+
+    .lvb-div-1 {
+        margin-top: 5em !important;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .s-2 {
+        margin-top: 0em !important;
+    }
+
+    .r-1 {
+        margin-top: 5em;
+    }
+    .r-2 {
+        margin-top: 1em;
+    }
+
+    .r-3 {
+        width: 40.1em;
+    }
+
+    .carousel {
+        width: 100%;
+    }
+
+    .carousel-img {
+        width: 100%;
+    }
+
+    .product-desc-container h1 {
+        font-size: 2.;
+        margin-right: 0;
+    }
+
+    .price {
+        margin-right: 1.2em;
+    }
+
+    .r-2 {
+        margin-top: 24em;
+    }
+
+    .view-plus-caption,
+    .view-plus-content,
+    .view-plus-desc {
+        margin: 0 auto;
+    }
+
+
+
+    .view-plus-caption {
+        margin-bottom: 2em;
+    }
+
+    .card-view-pl {
+        width: 23em;
+    }
+
+    .card-text {
+        margin-top: 4em;
+    }
+
+    .nerd-p,
+    .nerd-p-2,
+    .nerd-h3 {
+        margin-left: 0 !important;
+    }
+
+    .home-dna-place-container-2-1 {
+        margin-right: 0 !important;
+    }
+
+    .smart-system-desc {
+        width: 50% !important;
+    }
+
+    .content-renew-container {
+        order: 0;
+    }
+
+    .video-renew-container {
+        padding-left: 0;
+        order: 1;
+    }
+
+    .renew-p {
+        margin: 0 auto !important;
+    }
+
+    .experience-div-container {
+        margin-right: 5em;
+    }
+}
+
+
+@media(min-width: 990px) and (max-width: 1320px) {
+
+    .s-2 {
+        margin-top: 0em !important;
+    }
+
+    .r-1 {
+        margin-top: 5em;
+    }
+
+    .r-2 {
+        margin-top: 1em;
+    }
+
+    .r-3 {
+        width: 40.1em;
+    }
+
+    .carousel {
+        width: 90%;
+    }
+
+    .carousel-img {
+        width: 100%;
+    }
+
+    .r-2 {
+        margin-top: 23em;
+    }
+
+    .view-plus-caption,
+    .view-plus-content,
+    .view-plus-desc {
+        margin: 0 auto;
+    }
+
+    .view-plus-caption {
+        margin-bottom: 2em;
+    }
+
+    .home-dna-place-container-2-1 {
+        margin-right: 0 !important;
+    }
+
+    .renew-p {
+        margin: 0 auto !important;
+    }
+
+}
+
+@media(min-width: 1060px) and (max-width: 1300px) {
+    .home-dna-place-container-2-1 {
+        margin-right: 2em !important;
+    }
+}
+
+
+@media(max-width: 1007px) {
+    .home-dna-place-container {
+        padding: 26px 20px;
+        height: auto;
+        width: 100%;
+    }
+
+}
+
+
+
+/* .row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+body {
+    overflow-x: hidden;
+    /* Prevent horizontal scrolling */

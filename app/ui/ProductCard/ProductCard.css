@@ -1,0 +1,105 @@
+.main-card-container {
+    margin-right: 2em;
+    margin-bottom: 5em;
+}
+
+.main-card {
+    width: 35rem;
+    margin: 0 auto;
+    height: auto;
+    width: 446.364px;
+}
+
+.carousel-img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+
+.card-title {
+    font: 24px 'Open Sans', sans-serif;
+    color: #21282D;
+    text-align: start;
+    margin-top: 0.6em;
+}
+
+
+.card-text {
+    width: 100%;
+    color: #21282D;
+    font: 19px 'Open Sans', sans-serif;
+    padding: 5px 0px 20px;
+    text-align: start !important;
+    margin-left: 0;
+    margin-top: 1em;
+}
+
+.card-body {
+    height: auto;
+}
+
+.card-body-container {
+    height: 5.5em;
+}
+
+.price-text {
+    font-weight: 600;
+    line-height: 1.5rem;
+    margin-left: 1em;
+}
+
+.card-price {
+    margin-top: 2em;
+}
+
+.btn {
+    display: block;
+    width: 80% !important;
+    background-color: #ffc000;
+    margin: 0 auto;
+    color: #21282D;
+    font: 19px 'Open Sans', sans-serif;
+    border-radius: 1em;
+    height: 1.9em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+
+.subcaption {
+    width: 80%;
+    font-size: 17px;
+    text-align: start;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+
+
+
+@media(max-width: 768px) {
+    .main-card-container {
+        margin-right: 0;
+    }
+}
+
+
+
+@media(min-width: 900px) and (max-width: 1210px) {
+    .price-text {
+        margin-top: 10em;
+    }
+}
+
+
+@media(min-width: 890px) and (max-width: 1215px) {
+    .price-text {
+        margin-top: 1em;
+    }
+
+    .card-body {
+        height: auto;
+    }
+}
+

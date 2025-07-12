@@ -1,7 +1,7 @@
-import ContactsForm from '../ui/ContactsForm/ContactsForm';
+// import ContactsForm from '../ui/ContactsForm/ContactsForm';
 
-export default function Contacts() {
-  return (
-    <ContactsForm />
-  )
-}
+// export default function Contacts() {
+//   return (
+//     <ContactsForm />
+//   )
+// }

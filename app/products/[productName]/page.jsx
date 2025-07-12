@@ -496,7 +496,7 @@ export default function ProductPage({ params }) {
 
                 <p className='w-50 price'>{productDetails.price}</p>
 
-                <a href={'/contacts'} className="w-100 btn open-btn btn-primary">Изпрати запитване</a>
+                {/* <a href={'/contacts'} className="w-100 btn open-btn btn-primary">Изпрати запитване</a> */}
 
             </div>
 

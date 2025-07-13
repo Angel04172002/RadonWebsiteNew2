@@ -1,5 +1,6 @@
 import ProductList from './ui/ProductList/ProductList';
 import './Home.css';
+
 import Link from 'next/link';
 
 

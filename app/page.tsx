@@ -8,7 +8,7 @@ export default function Page() {
 
   return (
 
-    <div className='container-fluid main-home-container'>
+    <div className='container main-home-container'>
 
       <div className='row'>
 

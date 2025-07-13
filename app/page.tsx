@@ -114,7 +114,7 @@ export default function Page() {
             </div>
 
             <div className='card-price'>
-              <p className='card-text price-text'>€234.99</p>
+              <p className='card-text price-text'>€299.00</p>
             </div>
 
             <a href='/products/view-plus' className="w-100 btn open-btn btn-primary">Разгледай</a>
@@ -135,7 +135,7 @@ export default function Page() {
             </div>
 
             <div className='card-price'>
-              <p className='card-text price-text'>€149.99</p>
+              <p className='card-text price-text'>€149.00</p>
             </div>
 
             <a href='/products/wave-enhance' className="w-100 btn open-btn btn-primary">Разгледай</a>
@@ -157,7 +157,7 @@ export default function Page() {
             </div>
 
             <div className='card-price'>
-              <p className='card-text price-text'>€79.99</p>
+              <p className='card-text price-text'>€79.00</p>
             </div>
 
             <a href='/products/wave-mini' className="w-100 btn open-btn btn-primary">Разгледай</a>

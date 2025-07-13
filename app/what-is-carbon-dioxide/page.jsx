@@ -14,7 +14,7 @@ export default function WhatIsCarbonDioxide() {
 
                     <h1>Какво е въглероден диоксид?</h1>
 
-                    <img src={Co2Icon} alt='co2-icon' className='co2-icon img-fluid' />
+                    {/* <img src={Co2Icon} alt='co2-icon' className='co2-icon img-fluid' /> */}
 
                 </div>
             </div>

@@ -190,9 +190,6 @@ export function RadonAccordionItemFive() {
                     <img src="/Images/radon-map.png" class="img-fluid mx-auto radonmap-img" alt="Radon Map" loading="lazy">
                 </div>
 
-                <div class="col-lg-12 col-md-12 col-sm-12 mt-5 justify-content-center mx-auto">
-                    <a class="radon-map-btn btn btn-primary" href="/radonmap" target="_blank">Вижте приблизителното ниво на риск във вашия регион</a>
-                </div>
             </div>
 
         </div>

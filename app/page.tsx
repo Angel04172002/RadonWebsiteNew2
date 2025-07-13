@@ -52,7 +52,7 @@ export default function Page() {
 
           <div className='content-container-m'>
             <p className='vp-span mt-5'>Мобилно приложение</p>
-            <h2 className='vp-h2'>2. Разберете: Яснота в кран</h2>
+            <h2 className='vp-h2'>2. Разберете</h2>
 
             <p className='mt-5 vp-p vp-p-2'>Получете полезни прозрения, персонализирани съвети и проследете въздействието на подобренията си с течение на времето.</p>
 
@@ -113,7 +113,7 @@ export default function Page() {
             </div>
 
             <div className='card-price'>
-              <p className='card-text price-text'>$234.99</p>
+              <p className='card-text price-text'>€234.99</p>
             </div>
 
             <a href='/products/view-plus' className="w-100 btn open-btn btn-primary">Разгледай</a>
@@ -134,7 +134,7 @@ export default function Page() {
             </div>
 
             <div className='card-price'>
-              <p className='card-text price-text'>$149.99</p>
+              <p className='card-text price-text'>€149.99</p>
             </div>
 
             <a href='/products/wave-enhance' className="w-100 btn open-btn btn-primary">Разгледай</a>
@@ -156,7 +156,7 @@ export default function Page() {
             </div>
 
             <div className='card-price'>
-              <p className='card-text price-text'>$79.99</p>
+              <p className='card-text price-text'>€79.99</p>
             </div>
 
             <a href='/products/wave-mini' className="w-100 btn open-btn btn-primary">Разгледай</a>

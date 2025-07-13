@@ -119,8 +119,8 @@
 
 .img-m-cont img {
     display: block;
-    /* width: 45em; */
-    width: 100%;
+    width: 45em;
+    /* width: 100%; */
     height: auto;
     margin-top: 2em;
     margin-left: 0;
@@ -202,8 +202,7 @@
 
     .r-1,
     .r-2 {
-        width: 50%;
-        /* width: 30em; */
+        width: 30em;
     }
 
     .r-2 {
@@ -216,8 +215,7 @@
     }
 
     .r-3 {
-        width: 100%;
-        /* max-width: 30em; */
+        max-width: 30em;
     }
 
     .vp-p-3 {
@@ -259,8 +257,8 @@
     }
 
     .r-3 {
-        /* width: 40.1em; */
-        width: 100%;
+        width: 40.1em;
+        /* width: 100%; */
     }
 
     .vp-p-3 {
@@ -277,8 +275,8 @@
     }
 
     .r-3 {
-        /* width: 40.1em; */
-        width: 100%;
+        width: 40.1em;
+        /* width: 100%; */
     }
 
     .vp-p-3 {

@@ -8,11 +8,11 @@ export default function Page() {
 
   return (
 
-    <div className='container main-home-container'>
+    <div className='container-fluid main-home-container'>
 
       <div className='row'>
 
-        <div className='col-md-12 col-lg-7'>
+        <div className='col-sm-12 col-md-12 col-lg-7'>
 
           <h1 className='display-4 home-title px-3'>Интелигентни монитори за качество на въздуха и пречистватели, на които можете да се доверите</h1>
           <p className='display-6 home-paragraph px-3'>Променете състоянието си на съществуване с Airthings. Нашите продукти могат да ви помогнат да подобрите качеството на въздуха в помещението, което води до по-добър фокус, успокояване на алергиите и подобряване на съня, като същевременно осигуряват цялостно по-здравословен дом.</p>

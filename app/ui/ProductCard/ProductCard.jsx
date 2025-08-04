@@ -18,7 +18,8 @@ export default function ProductCard({
     description,
     price,
     imageUrl,
-    subcaption
+    subcaption,
+    showCloseBtn
 }) {
 
     const productName = productNamesMapping[title];
@@ -43,7 +44,8 @@ export default function ProductCard({
                     <p className='card-text price-text'>{price}</p>
                 </div>
 
-                <a href={pathname} className="w-100 btn open-btn btn-primary">Разгледай</a>
+                {showCloseBtn ? <a href={pathname} className="w-100 btn open-btn btn-primary">Разгледай</a> : ''}
+                
 
             </div>
         </div>

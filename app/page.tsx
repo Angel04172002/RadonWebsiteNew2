@@ -4,6 +4,12 @@ import './Home.css';
 import Link from 'next/link';
 
 
+
+export const metadata = {
+ title: "" 
+}
+
+
 export default function Page() {
 
   return (
@@ -86,10 +92,6 @@ export default function Page() {
               <img alt='Air purifier' width={1000} height={500} src='/Images/renew-3.jpg' className="img-fluid px-3 pur-img" />
             </div>
           </div>
-
-
-
-
         </div>
 
       </div>
@@ -166,11 +168,6 @@ export default function Page() {
         </div> 
         
       </div>
-
-
-     
-
-
     </div>
   )
 }

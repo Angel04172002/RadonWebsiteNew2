@@ -1,10 +1,21 @@
 import BootstrapClient from '@/app/ui/BootstrapClient';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../app/ui/global.css'
-
 import Header from './ui/Header/Header';
 import Footer from './ui/Footer/Footer';
 
+import { Metadata } from 'next';
+
+
+
+export const metadata: Metadata = {
+  generator: 'Next.js',
+  keywords: ['радон', 'сензор', 'датчик', 'radon', 'качество', 'въздух', 'Airthings'],
+  robots: {
+    index: true,
+    follow: true
+  }
+}
 
 export default function RootLayout({
   children,
@@ -17,9 +28,6 @@ export default function RootLayout({
 
     <html lang="en">
 
-      <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </head>
       <body>
 
 

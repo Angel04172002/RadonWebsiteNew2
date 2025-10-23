@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-, "app/ui/ProductCard/ProductCard.jsx", "app/products/[productName]/page.jsx"  ],
+, "app/ui/ProductCard/ProductCard.jsx", "app/products/[productName]/page.jsx", "app/api/contact/route.js"  ],
   "exclude": ["node_modules"]
 }

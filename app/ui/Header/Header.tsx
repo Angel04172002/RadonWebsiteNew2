@@ -44,11 +44,11 @@ export default function Header() {
                                 </a>
                             </li>
 
-                            {/* <li className="nav-item" style={{ marginRight: '4em' }}>
+                            <li className="nav-item" style={{ marginRight: '4em' }}>
                                 <a className="nav-link navbtn" href="/contacts">
                                     Контакти
                                 </a>
-                            </li> */}
+                            </li>
 
 
                         </ul>

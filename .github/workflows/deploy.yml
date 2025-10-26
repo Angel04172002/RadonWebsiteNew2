@@ -15,7 +15,7 @@ jobs:
 
     - name: Deploy to VPS
       run: |
-        ssh -o StrictHostKeyChecking=no root@31.97.216.49 << 'EOF'
+        ssh -o StrictHostKeyChecking=no root@77.37.49.102 << 'EOF'
           cd /var/www/RadonExpertWebsite
           git pull origin main
           npm install --force
